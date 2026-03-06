@@ -9,8 +9,9 @@
     "language": "English",
     "duration": "48:20",
     "date": "2026-03-01",
-    "fileId": "PASTE_DRIVE_FILE_ID",
-    "description": "Introduction to the series and why studying history matters."
+    "fileId": "1Jti14GOkfuqAaxxMiywuOzLEUV1fEXeg",
+    "description": "Introduction to the series and why studying history matters.",
+    "tags": ["history", "methodology"]
   },
   {
     "id": "hiqbah-2",
@@ -22,8 +23,9 @@
     "language": "English",
     "duration": "51:10",
     "date": "2026-03-02",
-    "fileId": "PASTE_DRIVE_FILE_ID",
-    "description": "Sources and evidence in writing authentic history."
+    "fileId": "1gQn_tZJTTmoWuj9ZyRTuSXy--SJ5JYUl",
+    "description": "Sources and evidence in writing authentic history.",
+    "tags": ["history", "sources"]
   },
   {
     "id": "hiqbah-3",
@@ -35,7 +37,8 @@
     "language": "English",
     "duration": "46:35",
     "date": "2026-03-03",
-    "fileId": "PASTE_DRIVE_FILE_ID",
-    "description": "Narrative structure and chronology in historical writing."
+    "fileId": "1PnssFYHh5YYYII70BLyAoZCdIaNuXL8A",
+    "description": "Narrative structure and chronology in historical writing.",
+    "tags": ["history", "chronology"]
   }
 ]
