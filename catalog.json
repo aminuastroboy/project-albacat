@@ -13,8 +13,11 @@
     "description": "Introduction to the series and why studying history matters.",
     "tags": [
       "history",
-      "methodology"
-    ]
+      "methodology",
+      "foundations"
+    ],
+    "cover": "",
+    "transcript": "In this opening session, the lecture introduces the meaning of history, why documenting events matters, and the importance of preserving authentic narrations for later generations."
   },
   {
     "id": "hiqbah-2",
@@ -30,8 +33,11 @@
     "description": "Sources and evidence in writing authentic history.",
     "tags": [
       "history",
-      "sources"
-    ]
+      "sources",
+      "evidence"
+    ],
+    "cover": "",
+    "transcript": "This session explains how sources are collected, checked, and compared. It emphasizes careful evaluation, bias awareness, and the duty of preserving historical accuracy."
   },
   {
     "id": "hiqbah-3",
@@ -47,7 +53,10 @@
     "description": "Narrative structure and chronology in historical writing.",
     "tags": [
       "history",
-      "chronology"
-    ]
+      "chronology",
+      "narrative"
+    ],
+    "cover": "",
+    "transcript": "The lecture focuses on organizing events in sequence, presenting them clearly, and maintaining balance between narrative flow and evidence-based reporting."
   }
 ]
