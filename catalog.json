@@ -1,7 +1,7 @@
 [
   {
     "id": "hiqbah-1",
-    "title": "Hiqbah Mina Taarikh — Session 1",
+    "title": "Hiqbah Mina Taarikh \u2014 Session 1",
     "author": "Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
@@ -13,15 +13,13 @@
     "description": "Introduction to the series and why studying history matters.",
     "tags": [
       "history",
-      "methodology",
-      "foundations"
+      "methodology"
     ],
-    "cover": "",
-    "transcript": "In this opening session, the lecture introduces the meaning of history, why documenting events matters, and the importance of preserving authentic narrations for later generations."
+    "transcript": "Opening lecture introducing the concept of documenting history."
   },
   {
     "id": "hiqbah-2",
-    "title": "Hiqbah Mina Taarikh — Session 2",
+    "title": "Hiqbah Mina Taarikh \u2014 Session 2",
     "author": "Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
@@ -33,15 +31,13 @@
     "description": "Sources and evidence in writing authentic history.",
     "tags": [
       "history",
-      "sources",
-      "evidence"
+      "sources"
     ],
-    "cover": "",
-    "transcript": "This session explains how sources are collected, checked, and compared. It emphasizes careful evaluation, bias awareness, and the duty of preserving historical accuracy."
+    "transcript": "Explains how historical sources are collected and verified."
   },
   {
     "id": "hiqbah-3",
-    "title": "Hiqbah Mina Taarikh — Session 3",
+    "title": "Hiqbah Mina Taarikh \u2014 Session 3",
     "author": "Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
@@ -53,10 +49,8 @@
     "description": "Narrative structure and chronology in historical writing.",
     "tags": [
       "history",
-      "chronology",
-      "narrative"
+      "chronology"
     ],
-    "cover": "",
-    "transcript": "The lecture focuses on organizing events in sequence, presenting them clearly, and maintaining balance between narrative flow and evidence-based reporting."
+    "transcript": "Discusses chronological organization of historical narratives."
   }
 ]
