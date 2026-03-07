@@ -1,25 +1,17 @@
-# Project ALBACAT — Next.js + Tailwind
+# Project ALBACAT — Next.js + Tailwind v6
 
-A Next.js App Router build of Project ALBACAT for Vercel deployment.
+A production-style Next.js App Router build of Project ALBACAT with an HTML5 audio player.
 
-## Stack
-- Next.js App Router
-- TypeScript
-- Tailwind CSS v4
-- Vercel-ready
-
-## Run locally
+## Setup
 ```bash
 npm install
 npm run dev
 ```
 
-## Deploy to Vercel
-1. Push this folder to GitHub
-2. Import the repo into Vercel
-3. Deploy with default settings
+## Deploy
+Push to GitHub and import the repo into Vercel.
 
-## Notes
-- Put your Astrovia logo at `public/logo.png` if you want to add branding later.
-- Audio playback uses Google Drive preview embeds.
-- Download uses direct Google Drive download links.
+## Public assets
+Put your branding files here:
+- `public/logo.png`
+- `public/favicon.ico`
