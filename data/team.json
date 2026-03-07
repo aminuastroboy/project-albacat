@@ -1,0 +1,25 @@
+{
+  "team_name": "Project ALBACAT Research & Development Team",
+  "mission": "Research, curate, organize, and publish high-quality Islamic history audio content in an accessible digital library.",
+  "contact": {
+    "email": "astroviasystems@gmail.com",
+    "phone": "07081197352"
+  },
+  "members": [
+    {
+      "name": "Aminu Muhammad",
+      "role": "Project Lead & System Architect",
+      "organization": "Astrovia Systems"
+    },
+    {
+      "name": "Abdulkareem Adamu",
+      "role": "Research & Content Development",
+      "organization": "Project ALBACAT"
+    },
+    {
+      "name": "Astrovia Systems",
+      "role": "Technology Partner",
+      "organization": "Astrovia Systems"
+    }
+  ]
+}
