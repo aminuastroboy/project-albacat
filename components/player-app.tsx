@@ -15,7 +15,7 @@ type Lecture = {
   language: string
   duration: string
   date: string
-  fileId: string
+  audioUrl: string
   description: string
   tags: string[]
   transcript?: string
@@ -35,12 +35,6 @@ const teamData = team as {
   contact?: { email?: string; phone?: string }
   members: TeamMember[]
 }
-
-const driveAudio = (fileId: string) =>
-  `https://drive.google.com/uc?export=download&id=${fileId}`
-
-const driveDownload = (fileId: string) =>
-  `https://drive.google.com/uc?export=download&id=${fileId}`
 
 export default function PlayerApp() {
   const [query, setQuery] = useState('')
@@ -120,7 +114,16 @@ export default function PlayerApp() {
             <div className="max-w-3xl space-y-3">
               <div className="flex items-center gap-3">
                 <div className="relative h-12 w-12 overflow-hidden rounded-2xl border border-white/10 bg-white/5">
-                  <Image src="/logo.png" alt="Astrovia Systems" fill className="object-contain p-1" />
+                  <Image
+                    src="/logo.png"
+                    alt="Astrovia Systems"
+                    fill
+                    className="object-contain p-1"
+                    onError={(e) => {
+                      const target = e.currentTarget as HTMLImageElement
+                      target.style.display = 'none'
+                    }}
+                  />
                 </div>
                 <div>
                   <p className="text-xs font-semibold uppercase tracking-[0.25em] text-sky-300">
@@ -131,7 +134,7 @@ export default function PlayerApp() {
               </div>
               <h1 className="text-3xl font-bold leading-tight md:text-5xl">Project ALBACAT</h1>
               <p className="alb-muted text-sm leading-7 md:text-base">
-                A cleaner Islamic history audio platform for Albani Zaria. Click any lecture and it starts in the native audio player automatically.
+                A cleaner Islamic history audio platform for Albani Zaria. Click any lecture and it starts in the native audio player automatically from Cloudinary.
               </p>
               <div className="alb-muted flex flex-wrap gap-4 text-sm">
                 <span>Email: {teamData.contact?.email}</span>
@@ -236,7 +239,8 @@ export default function PlayerApp() {
                         Next
                       </button>
                       <a
-                        href={driveDownload(current.fileId)}
+                        href={current.audioUrl}
+                        download
                         className="rounded-xl border border-white/10 bg-white/5 px-4 py-2 text-sm hover:bg-white/10"
                       >
                         Download
@@ -247,8 +251,8 @@ export default function PlayerApp() {
 
                 <div className="mt-5 rounded-[24px] border border-white/10 bg-black/20 p-4">
                   {current ? (
-                    <audio ref={audioRef} controls autoPlay className="w-full" key={current.fileId}>
-                      <source src={driveAudio(current.fileId)} type="audio/mpeg" />
+                    <audio ref={audioRef} controls autoPlay className="w-full" key={current.audioUrl}>
+                      <source src={current.audioUrl} type="audio/mpeg" />
                       Your browser does not support audio playback.
                     </audio>
                   ) : (
@@ -395,7 +399,8 @@ function LectureCard({
           Play
         </button>
         <a
-          href={driveDownload(item.fileId)}
+          href={item.audioUrl}
+          download
           className="rounded-xl border border-white/10 bg-white/5 px-4 py-2 text-sm hover:bg-white/10"
         >
           Download
