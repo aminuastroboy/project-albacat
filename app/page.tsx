@@ -1,5 +1,3 @@
-import PlayerApp from '@/components/player-app'
 
-export default function Page() {
-  return <PlayerApp />
-}
+import Player from '@/components/player'
+export default function Page(){return <Player/>}
