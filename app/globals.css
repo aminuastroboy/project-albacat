@@ -1,0 +1,37 @@
+@import 'tailwindcss';
+
+:root {
+  --background: #08101f;
+  --card: #101a31;
+  --card-2: #0d152b;
+  --border: rgba(255,255,255,0.08);
+  --text: #edf4ff;
+  --muted: #a8b4cf;
+  --brand: #7aa2ff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background:
+    radial-gradient(circle at top left, rgba(122,162,255,0.20), transparent 28%),
+    radial-gradient(circle at top right, rgba(32,208,159,0.12), transparent 22%),
+    var(--background);
+  color: var(--text);
+}
+
+::selection {
+  background: rgba(122,162,255,0.35);
+}
+
+.albacat-card {
+  background: linear-gradient(180deg, rgba(16,26,49,0.92), rgba(13,21,43,0.92));
+  border: 1px solid var(--border);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.22);
+}
+
+.albacat-muted {
+  color: var(--muted);
+}
