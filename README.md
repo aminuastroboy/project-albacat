@@ -1,6 +1,6 @@
-# Project ALBACAT — Next.js + Tailwind v6
+# Project ALBACAT — Next.js + Tailwind v6 Cloudinary
 
-A production-style Next.js App Router build of Project ALBACAT with an HTML5 audio player.
+A production-style Next.js App Router build of Project ALBACAT with an HTML5 audio player powered by Cloudinary audio URLs.
 
 ## Setup
 ```bash
