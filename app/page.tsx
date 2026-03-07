@@ -1,5 +1,5 @@
-import AlbacatApp from '@/components/albacat-app'
+import PlayerApp from '@/components/player-app'
 
 export default function Page() {
-  return <AlbacatApp />
+  return <PlayerApp />
 }
