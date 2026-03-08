@@ -1,7 +1,7 @@
 [
   {
     "id": "hiqbah-1",
-    "title": "Hiqbah Mina Taarikh — Session 1",
+    "title": "Hiqbah Mina Taarikh \u2014 Session 1",
     "author": "Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
@@ -11,11 +11,14 @@
     "date": "2026",
     "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1772882777/A1_lehxo6.mp3",
     "description": "Gabatarwa kan yadda ake rubuta tarihi.",
-    "tags": ["history", "hausa"]
+    "tags": [
+      "history",
+      "hausa"
+    ]
   },
   {
     "id": "hiqbah-2",
-    "title": "Hiqbah Mina Taarikh — Session 2",
+    "title": "Hiqbah Mina Taarikh \u2014 Session 2",
     "author": "Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
@@ -25,11 +28,14 @@
     "date": "2026",
     "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1772882778/A2_ioespu.mp3",
     "description": "Ci gaba da bayani kan rubuta tarihi.",
-    "tags": ["history", "hausa"]
+    "tags": [
+      "history",
+      "hausa"
+    ]
   },
   {
     "id": "hiqbah-3",
-    "title": "Hiqbah Mina Taarikh — Session 3",
+    "title": "Hiqbah Mina Taarikh \u2014 Session 3",
     "author": "Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
@@ -39,11 +45,14 @@
     "date": "2026",
     "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1772882777/A3_i9cm5z.mp3",
     "description": "Ci gaba da bayani kan tarihin Musulunci.",
-    "tags": ["history", "hausa"]
+    "tags": [
+      "history",
+      "hausa"
+    ]
   },
   {
     "id": "hiqbah-4",
-    "title": "Hiqbah Mina Taarikh — Session 4",
+    "title": "Hiqbah Mina Taarikh \u2014 Session 4",
     "author": "Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
@@ -53,11 +62,14 @@
     "date": "2026",
     "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1772882778/A4_givp5x.mp3",
     "description": "Ci gaba da bayani kan hanyoyin nazarin tarihi.",
-    "tags": ["history", "hausa"]
+    "tags": [
+      "history",
+      "hausa"
+    ]
   },
   {
     "id": "hiqbah-5",
-    "title": "Hiqbah Mina Taarikh — Session 5",
+    "title": "Hiqbah Mina Taarikh \u2014 Session 5",
     "author": "Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
@@ -67,6 +79,9 @@
     "date": "2026",
     "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1772882778/A5_v9mrla.mp3",
     "description": "Ci gaba da bayanin tsarin rubuta tarihi.",
-    "tags": ["history", "hausa"]
-  }
+    "tags": [
+      "history",
+      "hausa"
     ]
+  }
+]
