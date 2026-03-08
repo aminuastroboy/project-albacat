@@ -58,9 +58,11 @@ function LectureCard({ item, onPlay, active }) {
 function ScholarProfile() {
   return (
     <section className="alb-card rounded-[28px] p-5 md:p-6">
-      <p className="text-sm font-semibold uppercase tracking-[0.2em] text-sky-300">Scholar</p>
-      <h2 className="mt-2 text-2xl font-semibold">Albani Zaria</h2>
-      <p className="alb-muted mt-3 text-sm leading-7">Featured lecturer for the current ALBACAT catalog. This section is ready for future multi-scholar expansion.</p>
+      <p className="text-sm font-semibold uppercase tracking-[0.2em] text-sky-300">Scholar Inspiration</p>
+      <h2 className="mt-2 text-2xl font-semibold">Sheik Albani Zaria</h2>
+      <p className="alb-muted mt-3 text-sm leading-7">
+        Project ALBACAT is inspired by the teachings of Sheik Albani Zaria. ALBACAT means Albani’s Catalog, reflecting a mission of preserving organized Islamic knowledge in a clean and accessible digital format.
+      </p>
     </section>
   )
 }
@@ -119,11 +121,14 @@ export default function PlayerApp() {
                 </div>
                 <div>
                   <p className="text-xs font-semibold uppercase tracking-[0.25em] text-sky-300">Astrovia Systems</p>
-                  <p className="alb-muted text-sm">Next.js + Tailwind for Vercel</p>
+                  <p className="alb-muted text-sm">{teamData.organization?.slogan}</p>
                 </div>
               </div>
               <h1 className="text-3xl font-bold leading-tight md:text-5xl">Project ALBACAT</h1>
-              <p className="alb-muted text-sm leading-7 md:text-base">A Hausa Islamic history audio platform for Albani Zaria using Cloudinary audio streaming.</p>
+              <p className="text-lg font-medium text-sky-300">Albani’s Catalog</p>
+              <p className="alb-muted text-sm leading-7 md:text-base">
+                Project ALBACAT is a structured Islamic library for preserving clean collections of Islamic books, lectures, Islamic sciences, and history. It is inspired by the teachings of Sheik Albani Zaria and fully developed and supported by Astrovia Systems.
+              </p>
               <div className="alb-muted flex flex-wrap gap-4 text-sm">
                 <span>Email: {teamData.contact?.email}</span>
                 <span>Phone: {teamData.contact?.phone}</span>
@@ -186,12 +191,16 @@ export default function PlayerApp() {
               <p className="text-sm font-semibold uppercase tracking-[0.2em] text-sky-300">Research & Development</p>
               <h2 className="mt-2 text-2xl font-semibold">{teamData.team_name}</h2>
               <p className="alb-muted mt-3 text-sm leading-7">{teamData.mission}</p>
+              <div className="mt-4 rounded-2xl border border-white/10 bg-white/5 p-4">
+                <p className="font-semibold">{teamData.organization?.name}</p>
+                <p className="alb-muted text-sm">{teamData.organization?.slogan}</p>
+              </div>
               <div className="mt-6 grid gap-4 md:grid-cols-2">
                 {(teamData.members || []).map((member) => (
                   <div key={member.name} className="rounded-2xl border border-white/10 bg-white/5 p-4">
                     <h3 className="text-lg font-semibold">{member.name}</h3>
                     <p className="alb-muted text-sm">{member.role}</p>
-                    {member.organization ? <p className="alb-muted mt-1 text-sm">{member.organization}</p> : null}
+                    <p className="alb-muted mt-1 text-sm">{member.organization}</p>
                   </div>
                 ))}
               </div>
