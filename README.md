@@ -1,4 +1,12 @@
-# Project ALBACAT — Working Cloudinary Build
+# Project ALBACAT v7
+
+## Features
+- Hausa lecture metadata
+- R&D Team always visible
+- Floating audio player
+- Scholar section
+- Series playlist
+- Cloudinary audio playback
 
 ## Run locally
 ```bash
