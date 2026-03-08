@@ -6,12 +6,12 @@
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
     "sessionNumber": 1,
-    "language": "English",
+    "language": "Hausa",
     "duration": "Unknown",
     "date": "2026",
-    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1772882778/A4_givp5x.mp3",
-    "description": "Introduction to writing history.",
-    "tags": ["history", "methodology"]
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1772882777/A1_lehxo6.mp3",
+    "description": "Gabatarwa kan yadda ake rubuta tarihi.",
+    "tags": ["history", "hausa"]
   },
   {
     "id": "hiqbah-2",
@@ -20,12 +20,12 @@
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
     "sessionNumber": 2,
-    "language": "English",
+    "language": "Hausa",
     "duration": "Unknown",
     "date": "2026",
-    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1772882778/A4_givp5x.mp3",
-    "description": "Continuation of the lecture series.",
-    "tags": ["history"]
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1772882778/A2_ioespu.mp3",
+    "description": "Ci gaba da bayani kan rubuta tarihi.",
+    "tags": ["history", "hausa"]
   },
   {
     "id": "hiqbah-3",
@@ -34,12 +34,12 @@
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
     "sessionNumber": 3,
-    "language": "English",
+    "language": "Hausa",
     "duration": "Unknown",
     "date": "2026",
-    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1772882778/A4_givp5x.mp3",
-    "description": "Continuation of the lecture series.",
-    "tags": ["history"]
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1772882777/A3_i9cm5z.mp3",
+    "description": "Ci gaba da bayani kan tarihin Musulunci.",
+    "tags": ["history", "hausa"]
   },
   {
     "id": "hiqbah-4",
@@ -48,12 +48,12 @@
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
     "sessionNumber": 4,
-    "language": "English",
+    "language": "Hausa",
     "duration": "Unknown",
     "date": "2026",
     "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1772882778/A4_givp5x.mp3",
-    "description": "Continuation of the lecture series.",
-    "tags": ["history"]
+    "description": "Ci gaba da bayani kan hanyoyin nazarin tarihi.",
+    "tags": ["history", "hausa"]
   },
   {
     "id": "hiqbah-5",
@@ -62,11 +62,11 @@
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
     "sessionNumber": 5,
-    "language": "English",
+    "language": "Hausa",
     "duration": "Unknown",
     "date": "2026",
-    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1772882778/A4_givp5x.mp3",
-    "description": "Continuation of the lecture series.",
-    "tags": ["history"]
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1772882778/A5_v9mrla.mp3",
+    "description": "Ci gaba da bayanin tsarin rubuta tarihi.",
+    "tags": ["history", "hausa"]
   }
-]
+    ]
