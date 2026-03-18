@@ -2,7 +2,7 @@
   {
     "id": "hiqbah-1",
     "title": "Hiqbah Mina Taarikh — Session 1",
-    "author": "Albani Zaria",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
     "sessionNumber": 1,
@@ -16,7 +16,7 @@
   {
     "id": "hiqbah-2",
     "title": "Hiqbah Mina Taarikh — Session 2",
-    "author": "Albani Zaria",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
     "sessionNumber": 2,
@@ -30,7 +30,7 @@
   {
     "id": "hiqbah-3",
     "title": "Hiqbah Mina Taarikh — Session 3",
-    "author": "Albani Zaria",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
     "sessionNumber": 3,
@@ -44,7 +44,7 @@
   {
     "id": "hiqbah-4",
     "title": "Hiqbah Mina Taarikh — Session 4",
-    "author": "Albani Zaria",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
     "sessionNumber": 4,
@@ -58,7 +58,7 @@
   {
     "id": "hiqbah-5",
     "title": "Hiqbah Mina Taarikh — Session 5",
-    "author": "Albani Zaria",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
     "sessionNumber": 5,
@@ -72,7 +72,7 @@
   {
     "id": "hiqbah-6",
     "title": "Hiqbah Mina Taarikh — Session 6",
-    "author": "Albani Zaria",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
     "sessionNumber": 6,
@@ -86,7 +86,7 @@
   {
     "id": "hiqbah-7",
     "title": "Hiqbah Mina Taarikh — Session 7",
-    "author": "Albani Zaria",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
     "sessionNumber": 7,
@@ -100,7 +100,7 @@
   {
     "id": "hiqbah-8",
     "title": "Hiqbah Mina Taarikh — Session 8",
-    "author": "Albani Zaria",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
     "sessionNumber": 8,
@@ -114,7 +114,7 @@
   {
     "id": "hiqbah-9",
     "title": "Hiqbah Mina Taarikh — Session 9",
-    "author": "Albani Zaria",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
     "sessionNumber": 9,
@@ -128,7 +128,7 @@
   {
     "id": "hiqbah-10",
     "title": "Hiqbah Mina Taarikh — Session 10",
-    "author": "Albani Zaria",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
     "series": "Hiqbah Mina Taarikh",
     "topic": "How to Write History",
     "sessionNumber": 10,
@@ -136,7 +136,151 @@
     "duration": "Unknown",
     "date": "2026",
     "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1773813856/Hiqbah_10_D2lMN_ldxdmc.mp3",
-    "description": "Kammala darasin.",
+    "description": "Kammala bangare na farko.",
+    "tags": ["history", "hausa"]
+  },
+  {
+    "id": "hiqbah-11",
+    "title": "Hiqbah Mina Taarikh — Session 11",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
+    "series": "Hiqbah Mina Taarikh",
+    "topic": "How to Write History",
+    "sessionNumber": 11,
+    "language": "Hausa",
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1773814838/Hiqbah_11_XNDA5_pqnseg.mp3",
+    "description": "Ci gaba da darasi.",
+    "tags": ["history", "hausa"]
+  },
+  {
+    "id": "hiqbah-12",
+    "title": "Hiqbah Mina Taarikh — Session 12",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
+    "series": "Hiqbah Mina Taarikh",
+    "topic": "How to Write History",
+    "sessionNumber": 12,
+    "language": "Hausa",
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1773814838/Hiqbah_12_JxY9z_wdvdwh.mp3",
+    "description": "Ci gaba da darasi.",
+    "tags": ["history", "hausa"]
+  },
+  {
+    "id": "hiqbah-13",
+    "title": "Hiqbah Mina Taarikh — Session 13",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
+    "series": "Hiqbah Mina Taarikh",
+    "topic": "How to Write History",
+    "sessionNumber": 13,
+    "language": "Hausa",
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1773814837/Hiqbah_13_BhL7T_glhobc.mp3",
+    "description": "Ci gaba da darasi.",
+    "tags": ["history", "hausa"]
+  },
+  {
+    "id": "hiqbah-14",
+    "title": "Hiqbah Mina Taarikh — Session 14",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
+    "series": "Hiqbah Mina Taarikh",
+    "topic": "How to Write History",
+    "sessionNumber": 14,
+    "language": "Hausa",
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1773814838/Hiqbah_14_3KCrh_ruwwy5.mp3",
+    "description": "Ci gaba da darasi.",
+    "tags": ["history", "hausa"]
+  },
+  {
+    "id": "hiqbah-15",
+    "title": "Hiqbah Mina Taarikh — Session 15",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
+    "series": "Hiqbah Mina Taarikh",
+    "topic": "How to Write History",
+    "sessionNumber": 15,
+    "language": "Hausa",
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1773814838/Hiqbah_15_aLGOe_klfurd.mp3",
+    "description": "Ci gaba da darasi.",
+    "tags": ["history", "hausa"]
+  },
+  {
+    "id": "hiqbah-16",
+    "title": "Hiqbah Mina Taarikh — Session 16",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
+    "series": "Hiqbah Mina Taarikh",
+    "topic": "How to Write History",
+    "sessionNumber": 16,
+    "language": "Hausa",
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1773814838/Hiqbah_16_FJ6Jz_opw3kp.mp3",
+    "description": "Ci gaba da darasi.",
+    "tags": ["history", "hausa"]
+  },
+  {
+    "id": "hiqbah-17",
+    "title": "Hiqbah Mina Taarikh — Session 17",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
+    "series": "Hiqbah Mina Taarikh",
+    "topic": "How to Write History",
+    "sessionNumber": 17,
+    "language": "Hausa",
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1773814840/Hiqbah_17_ObAUv_cv0qw7.mp3",
+    "description": "Ci gaba da darasi.",
+    "tags": ["history", "hausa"]
+  },
+  {
+    "id": "hiqbah-18",
+    "title": "Hiqbah Mina Taarikh — Session 18",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
+    "series": "Hiqbah Mina Taarikh",
+    "topic": "How to Write History",
+    "sessionNumber": 18,
+    "language": "Hausa",
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1773814840/Hiqbah_18_yal3V_opfjoz.mp3",
+    "description": "Ci gaba da darasi.",
+    "tags": ["history", "hausa"]
+  },
+  {
+    "id": "hiqbah-19",
+    "title": "Hiqbah Mina Taarikh — Session 19",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
+    "series": "Hiqbah Mina Taarikh",
+    "topic": "How to Write History",
+    "sessionNumber": 19,
+    "language": "Hausa",
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1773814840/Hiqbah_19_5oCN1_tfamhk.mp3",
+    "description": "Ci gaba da darasi.",
+    "tags": ["history", "hausa"]
+  },
+  {
+    "id": "hiqbah-20",
+    "title": "Hiqbah Mina Taarikh — Session 20",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
+    "series": "Hiqbah Mina Taarikh",
+    "topic": "How to Write History",
+    "sessionNumber": 20,
+    "language": "Hausa",
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1773814840/Hiqbah_20_Bebd9_irhxdm.mp3",
+    "description": "Ci gaba da darasi.",
+    "tags": ["history", "hausa"]
+  },
+  {
+    "id": "hiqbah-21",
+    "title": "Hiqbah Mina Taarikh — Session 21",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
+    "series": "Hiqbah Mina Taarikh",
+    "topic": "How to Write History",
+    "sessionNumber": 21,
+    "language": "Hausa",
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1773814840/Hiqbah_21_hgRnD_mvxhby.mp3",
+    "description": "Ci gaba da darasi.",
+    "tags": ["history", "hausa"]
+  },
+  {
+    "id": "hiqbah-22",
+    "title": "Hiqbah Mina Taarikh — Session 22",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
+    "series": "Hiqbah Mina Taarikh",
+    "topic": "How to Write History",
+    "sessionNumber": 22,
+    "language": "Hausa",
+    "audioUrl": "https://res.cloudinary.com/dnnylumiz/video/upload/v1773814840/Hiqbah_22_eihaE_jw4bjn.mp3",
+    "description": "Kammala darasi.",
     "tags": ["history", "hausa"]
   }
 ]
