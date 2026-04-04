@@ -1,6 +1,8 @@
 {
-  "team_name": "Project ALBACAT Research & Development Team",
-  "mission": "To preserve, organize, and provide clean digital access to Islamic books, lectures, Islamic sciences, and history through a structured catalog system inspired by the teachings of Sheik Albani Zaria.",
+  "project_name": "Project ALBACAT",
+  "project_meaning": "Albani's Catalog",
+  "mission": "A structured digital Islamic library for preserving clean collections of lectures, books, Islamic sciences, and history.",
+  "about": "Project ALBACAT is inspired by the teachings of Sheikh Muhammad Auwal Albani Zaria. It preserves authenticity, originality, and organized access to Islamic learning.",
   "contact": {
     "email": "projectalbacat@gmail.com",
     "phone": "07081197352"
@@ -9,21 +11,8 @@
     "name": "Astrovia Systems",
     "slogan": "Software Excellence & IT Support at Warp Speed"
   },
-  "members": [
-    {
-      "name": "Aminu Muhammad",
-      "role": "Project Lead & System Architect",
-      "organization": "Astrovia Systems"
-    },
-    {
-      "name": "Abdulkareem Adamu",
-      "role": "Research & Content Development",
-      "organization": "Astrovia Systems"
-    },
-    {
-      "name": "Astrovia Systems",
-      "role": "Technology Partner, Developer, and Project Support",
-      "organization": "Astrovia Systems"
-    }
-  ]
+  "sponsor": {
+    "name": "Khadijah Legacy Foundation",
+    "slogan": "Empowering Minds Through Education and Technology"
+  }
 }
