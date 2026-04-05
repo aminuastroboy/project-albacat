@@ -438,5 +438,45 @@
       "history",
       "hausa"
     ]
+  },
+  {
+    "id": "sarimul-baktar-1",
+    "title": "Sarimul Baktar \u2014 Session 1",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
+    "authorSlug": "sheikh-muhammad-auwal-albani-zaria",
+    "series": "Sarimul Baktar",
+    "seriesSlug": "sarimul-baktar",
+    "topic": "Aqeedah and Refutations",
+    "category": "Aqeedah",
+    "sessionNumber": 1,
+    "language": "Hausa",
+    "duration": "Unknown",
+    "date": "2026",
+    "audioUrl": "https://res.cloudinary.com/dbwsrxqq4/video/upload/v1775340014/01._Sarim_ipu44r.mp3",
+    "description": "Gabatarwa kan Sarimul Baktar.",
+    "tags": [
+      "aqeedah",
+      "hausa"
+    ]
+  },
+  {
+    "id": "sarimul-baktar-2",
+    "title": "Sarimul Baktar \u2014 Session 2",
+    "author": "Sheikh Muhammad Auwal Albani Zaria",
+    "authorSlug": "sheikh-muhammad-auwal-albani-zaria",
+    "series": "Sarimul Baktar",
+    "seriesSlug": "sarimul-baktar",
+    "topic": "Aqeedah and Refutations",
+    "category": "Aqeedah",
+    "sessionNumber": 2,
+    "language": "Hausa",
+    "duration": "Unknown",
+    "date": "2026",
+    "audioUrl": "https://res.cloudinary.com/dbwsrxqq4/video/upload/v1775340011/02.Sarim_hidbc9.mp3",
+    "description": "Ci gaba da darasi.",
+    "tags": [
+      "aqeedah",
+      "hausa"
+    ]
   }
 ]

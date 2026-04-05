@@ -9,5 +9,16 @@
     "language": "Hausa",
     "description": "A structured lecture series on understanding how history should be studied, preserved, and written.",
     "lectureCount": 22
+  },
+  {
+    "slug": "sarimul-baktar",
+    "title": "Sarimul Baktar",
+    "subtitle": "Albani\u2019s Catalog Collection",
+    "scholar": "Sheikh Muhammad Auwal Albani Zaria",
+    "scholarSlug": "sheikh-muhammad-auwal-albani-zaria",
+    "category": "Aqeedah",
+    "language": "Hausa",
+    "description": "A lecture series addressing matters of creed and refutations.",
+    "lectureCount": 2
   }
 ]

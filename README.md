@@ -1,6 +1,6 @@
-# Project ALBACAT v9
+# Project ALBACAT v10
 
-Multi-series architecture with Home, Library, Series detail, and Scholar pages.
+Player upgrade with auto-play next lecture, resume playback from last position, and progress tracking.
 
 Run locally:
 
